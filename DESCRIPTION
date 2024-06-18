@@ -1,7 +1,7 @@
 Package: clmpdashboard
 Type: Package
 Title: Functions to compile data for MP activity dashboard
-Version: 0.1.1
+Version: 0.1.2
 Author: Elise Uberoi
 Maintainer: Elise Uberoi <eliseuberoi@gmail.com>
 Description: This package enables users to get data on Members' activities in Parliament:
